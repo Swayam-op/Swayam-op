@@ -19,9 +19,7 @@ Passionate web developer with extensive experience in **React**, **Node.js**, an
 ### 🔧 Skills
 
 #### 🚀 Languages  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### 🌐 Frontend  
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
@@ -57,8 +55,8 @@ Passionate web developer with extensive experience in **React**, **Node.js**, an
 ### 🏆 Achievements
 
 - 🏅 **Technology Champion Award** @ Coforge [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7238214409985126400/)
-- 🏆 Global Rank **38** in a CodeChef Contest [CodeChef Profile](https://www.codechef.com/users/swayam_8637)
-- 🛡️ Knight Badge on LeetCode [LeetCode Profile](https://leetcode.com/Adam_0p/)
+- 🏆 **Global Rank **38** in a CodeChef Contest** [CodeChef Profile](https://www.codechef.com/users/swayam_8637)
+- 🛡️ **Knight Badge on LeetCode** [LeetCode Profile](https://leetcode.com/Adam_0p/)
 - 🧾 [Hackerrank Certificate](https://www.hackerrank.com/certificates/ea195153ab2d)
 
 ---
@@ -77,7 +75,6 @@ Passionate web developer with extensive experience in **React**, **Node.js**, an
 > Frontend clone with real-time movie streaming UI.  
 > **Tech**: React, Firebase, TailwindCSS
 
-#### 🧩 [Backend API (Render Hosted)](https://github.com/Swayam-op/easycode-backend-onrender)
 
 ---
 
