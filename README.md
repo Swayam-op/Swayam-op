@@ -37,7 +37,7 @@ Passionate web developer with extensive experience in **React**, **Node.js**, an
 ---
 
 ### 🏆 Achievements
-
+- 🏅 **Customer Delight Award** @ TMHCC [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7238214409985126400/])
 - 🏅 **Technology Champion Award** @ Coforge [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7238214409985126400/)
 - 🏆 **Global Rank **38** in a CodeChef Contest** [CodeChef Profile](https://www.codechef.com/users/swayam_8637)
 - 🛡️ **Knight Badge on LeetCode** [LeetCode Profile](https://leetcode.com/Adam_0p/)
